@@ -1,19 +1,3 @@
-<!--
-*** Thanks for checking out this README Template. If you have a suggestion that would
-*** make this better, please fork the repo and create a pull request or simply open
-*** an issue with the tag "enhancement".
-*** Thanks again! Now go create something AMAZING! :D
-***
-***
-***
-*** To avoid retyping too much info. Do a search and replace for the following:
-*** github_username, repo, twitter_handle, email
--->
-
-
-
-
-
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
@@ -34,23 +18,17 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/github_username/repo">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
-  <h3 align="center">YOUR_TITLE</h3>
+  <h3 align="center">College Campus Pathfinding Program</h3>
 
   <p align="center">
-    YOUR_SHORT_DESCRIPTION
+A C++ Program that takes in a .osm file of any College Campus and finds the fastest possible path between Campus Buildings using many popular Pathfinding     Algorithms (A*, Dijkstra, BFS, etc.). Subsequently, it uses the Google Maps Static API to display the optimal path.
     <br />
-    <a href="https://github.com/github_username/repo"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/yamanziadeh/college-campus-pathfinding/"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo">View Demo</a>
+    <a href="https://github.com/yamanziadeh/college-campus-pathfinding/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/github_username/repo/issues">Request Feature</a>
+    <a href="https://github.com/yamanziadeh/college-campus-pathfinding/issues">Request Feature</a>
   </p>
 </p>
 
