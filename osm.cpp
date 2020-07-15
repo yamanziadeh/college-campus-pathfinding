@@ -1,11 +1,5 @@
 /*osm.cpp*/
 
-//
-// Prof. Joe Hummel
-// U. of Illinois, Chicago
-// CS 251: Spring 2020
-// Project #07: open street maps, graphs, and Dijkstra's alg
-// 
 // References:
 // TinyXML: https://github.com/leethomason/tinyxml2
 // OpenStreetMap: https://www.openstreetmap.org

@@ -6,10 +6,6 @@
 // Basic graph class using adjacency matrix representation.  Currently
 // limited to a graph with at most 100 vertices.
 //
-// original author: Prof. Joe Hummel
-// U. of Illinois, Chicago
-// CS 251: Spring 2020
-//
 
 #pragma once
 

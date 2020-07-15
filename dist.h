@@ -1,12 +1,5 @@
 /*dist.h*/
 
-//
-// Prof. Joe Hummel
-// U. of Illinois, Chicago
-// CS 251: Spring 2020
-// Project #07: open street maps, graphs, and Dijkstra's alg
-// 
-
 #include <iostream>
 #include <cmath>
 
