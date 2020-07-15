@@ -89,16 +89,16 @@ Contributions are what make the open source community such an amazing place to b
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+Yaman Ziadeh - yamanbader@gmail.com
 
-Project Link: [https://github.com/github_username/repo](https://github.com/github_username/repo)
+Project Link: [https://github.com/yamanziadeh/college-campus-pathfinding](https://github.com/yamanziadeh/college-campus-pathfinding)
 
 
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* []()
+* [Prof. Joseph Hummel](https://cs.uic.edu/profiles/joe-hummel/)
 * []()
 * []()
 
