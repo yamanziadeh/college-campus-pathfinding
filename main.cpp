@@ -29,10 +29,10 @@
 #include <cassert>
 #include <fstream>
 #include <chrono> // runtime
-#include "util/graph.h"
-#include "tinyxml2.h"
-#include "util/dist.h"
-#include "osm.h"
+#include "utils/graph.h"
+#include "mapParse/tinyxml2.h"
+#include "utils/dist.h"
+#include "mapParse/osm.h"
 
 const double INF = numeric_limits<double>::max();
 const string google_API_KEY = "AIzaSyCDZjH9IAbUJ0Oc0QldUWDcd8lsfpNGIxE";
