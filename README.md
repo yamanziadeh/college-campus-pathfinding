@@ -125,7 +125,7 @@ Runtime of Algorithm (microseconds): 3149
 Visual Path (search up the following URL): 
 ```
 5. After this, you will be given a URL to an image of the visual path generated using the Google Maps Static API
-https://i.ibb.co/RQxKFYN/staticmap.png
+![Visual Path between Clinical Wing and Harvard Extension School](https://i.ibb.co/RQxKFYN/staticmap.png)
 
 
 <!-- CONTRIBUTING -->
