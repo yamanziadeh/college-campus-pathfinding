@@ -37,6 +37,7 @@ A C++ Program that takes in a .osm file of any College Campus and finds the fast
 * [Getting Started](#getting-started)
   * [Installation](#installation)
 * [Usage](#usage)
+  * [Usage Tips](#Usage-Tips)
 * [Contributing](#contributing)
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
@@ -127,6 +128,11 @@ Visual Path (search up the following URL):
 
 ![Visual Path between Clinical Wing and Harvard Extension School](https://i.ibb.co/RQxKFYN/staticmap.png)
 
+
+
+<!-- USAGE EXAMPLES -->
+## Usage Tips
+* If you want to upload a college campus file, go to https://www.openstreetmap.org/, export the desired map/ area, put exported .osm file into osmFiles folder.
 
 <!-- CONTRIBUTING -->
 ## Contributing
