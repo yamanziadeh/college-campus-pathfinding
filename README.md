@@ -103,8 +103,6 @@ Project Link: [https://github.com/yamanziadeh/college-campus-pathfinding](https:
 ## Acknowledgements
 
 * [Prof. Joseph Hummel](https://cs.uic.edu/profiles/joe-hummel/)
-* []()
-* []()
 
 
 
