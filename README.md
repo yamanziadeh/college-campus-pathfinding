@@ -132,7 +132,7 @@ Visual Path (search up the following URL):
 
 <!-- USAGE EXAMPLES -->
 ## Usage Tips
-* If you want to upload a college campus file, go to https://www.openstreetmap.org/, export the desired map/ area, put exported .osm file into osmFiles folder.
+* If you want to upload a college campus file, go to https://www.openstreetmap.org/, export the desired map/ area, and place the exported .osm file into the osmFiles folder.
 
 <!-- CONTRIBUTING -->
 ## Contributing
