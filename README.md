@@ -61,6 +61,10 @@ git clone https://github.com/yamanziadeh/college-campus-pathfinding.git
 ```sh
 make
 ```
+3. Run the following command to run the executable
+```sh
+make run
+```
 
 
 
