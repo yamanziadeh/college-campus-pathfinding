@@ -74,7 +74,7 @@ make run
 2. You will be prompted to enter the filename, I have provided several files of various known campuses in the osmFiles folder, simply write the name of the
 file (no need to include the folder name)
 ```
-** Navigating College open street map **
+** Navigating College Open Street Map **
 
 Enter map filename> harvard.osm
 ```
