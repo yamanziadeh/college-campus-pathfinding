@@ -59,10 +59,6 @@ git clone https://github.com/yamanziadeh/college-campus-pathfinding.git
 ```sh
 make
 ```
-3. Run the following command to run the executable
-```sh
-make run
-```
 
 
 
@@ -71,7 +67,10 @@ make run
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+1. Run the following command to run the executable
+```sh
+make run
+```
 
 
 
