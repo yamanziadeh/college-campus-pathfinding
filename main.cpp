@@ -29,9 +29,9 @@
 #include <cassert>
 #include <fstream>
 #include <chrono> // runtime
-#include "graph.h"
+#include "util/graph.h"
 #include "tinyxml2.h"
-#include "dist.h"
+#include "util/dist.h"
 #include "osm.h"
 
 const double INF = numeric_limits<double>::max();
