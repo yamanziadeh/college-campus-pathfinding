@@ -73,13 +73,57 @@ make run
 ```
 
 2. You will be prompted to enter the filename, I have provided several files of various known campuses in the osmFiles folder, simply write the name of the
-file (no need to include the folder name).
+file (no need to include the folder name)
 ```
 ** Navigating College open street map **
 
 Enter map filename> harvard.osm
 ```
 
+3. Upon successful parsing of the inputted filename, you will be given a list of the buildings and available algorithms, input the algorithm number
+```
+...
+Clinical Wing
+Berkman Center for Internet & Society
+Harvard Extension School
+----------------------------------------------------------
+
+# of vertices: 10358
+# of edges: 5612
+
+Algorithms: 
+ 0) Dijkstras
+ 1) A-Star
+ 2) Breadth First Search
+ 3) Depth First Search
+
+Enter Algorithm Number: 1
+```
+
+4. Input the starting and destination building names (full or partial)
+```
+Enter start (partial name or abbreviation), or #> Clinical
+Enter destination (partial name or abbreviation)> Harvard Extension
+
+Starting Point:
+ Clinical Wing
+ (42.379682, -71.119361)
+Destination Point:
+ Harvard Extension School
+ (42.374465, -71.12148)
+
+Nearest start node:
+ 7625819507
+ (42.379883, -71.119135)
+Nearest destination node:
+ 7634516229
+ (42.374442, -71.121778)
+ 
+Navigating with A-Star...
+Runtime of Algorithm (microseconds): 3149
+Visual Path (search up the following URL): 
+```
+5. After this, you will be given a URL to an image of the visual path generated using the Google Maps Static API
 
 <!-- CONTRIBUTING -->
 ## Contributing
