@@ -1,6 +1,6 @@
 build:
 	rm -f program.exe
-	g++ -O2 -std=c++11 -Wall main.cpp dist.cpp osm.cpp tinyxml2.cpp -o program.exe
+	g++ -O2 -std=c++11 -Wall main.cpp util/dist.cpp osm.cpp tinyxml2.cpp -o program.exe
 
 test:
 	rm -f program.exe
