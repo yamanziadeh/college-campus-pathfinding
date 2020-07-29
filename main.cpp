@@ -525,7 +525,7 @@ int main()
 	vector<BuildingInfo> Buildings;	   // info about each building, in no particular order
 	XMLDocument xmldoc;
 
-	cout << "** Navigating College open street map **" << endl;
+	cout << "** Navigating College Open Street Map **" << endl;
 	cout << endl;
 	cout << std::setprecision(8);
 
