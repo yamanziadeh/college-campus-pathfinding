@@ -82,11 +82,12 @@ Enter map filename> harvard.osm
 
 3. Upon successful parsing of the inputted filename, you will be given a list of the buildings and available algorithms, input the algorithm number
 ```
+-------------------- Buildings ---------------------
 ...
 Clinical Wing
 Berkman Center for Internet & Society
 Harvard Extension School
-----------------------------------------------------------
+----------------------------------------------------
 
 # of vertices: 10358
 # of edges: 5612
