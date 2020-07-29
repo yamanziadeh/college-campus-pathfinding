@@ -72,6 +72,13 @@ Use this space to show useful examples of how a project can be used. Additional 
 make run
 ```
 
+2. You will be prompted to enter the filename, I have provided several files of various known campuses in the osmFiles folder, simply write the name of the
+file (no need to include the folder name).
+```sh
+** Navigating College open street map **
+
+Enter map filename> harvard.osm
+```
 
 
 <!-- CONTRIBUTING -->
