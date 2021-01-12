@@ -94,7 +94,7 @@ Algorithms:
  0) Dijkstras
  1) A-Star
  2) Breadth First Search
- 3) Depth First Search
+ 3) ...
 
 Enter Algorithm Number: 1
 ```
